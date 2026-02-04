@@ -1,7 +1,7 @@
 Disk Space Troubleshooting Report
 
 Date: 02/02/2025
-System: Linux
+System: Linux (Google Cloud Shell)
 User: Chymoore00
 
 Summary:
