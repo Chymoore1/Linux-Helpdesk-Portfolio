@@ -77,4 +77,4 @@ Each project includes:
 -Email: Chymoore00@gmail.com
 
 - GitHub: https://github.com/Chymoore1
-- LinkedIn: (optional)
+- 
